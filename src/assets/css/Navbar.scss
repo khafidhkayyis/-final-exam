@@ -1,0 +1,6 @@
+.navbar-brand{
+    cursor: pointer;
+    &:hover {
+        color: blue !important;
+    }
+}

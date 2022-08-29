@@ -1,0 +1,15 @@
+ERROR : Error: The `style` prop expects a mapping from style properties to values, not a string. For example, style={{marginRight: spacing + 'em'}} when using JSX.
+ARTINYA : Error di inline style
+
+----------------------------------------------------------------------
+
+EROOR : The href attribute requires a valid value to be accessible.
+ARTINYA : element anchor, href nya harus ada isinya
+
+di riect ketika menggunakan bootstrap jangan lupa diakhir element tambahkan /
+
+Perhatikan komponen yang digunakan dari penempatan sampai link yang digunakan 
+
+menggunakan FontAwesomeIcon  bisa menggunakan  komponen apa saja , herf, span, dll
+
+jika ingin membesarkan icon menggunkan font-size di css

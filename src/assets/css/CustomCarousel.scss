@@ -1,0 +1,13 @@
+.carousel {
+    img {
+        height: 740px !important;
+    }
+}
+
+@media (max-width: 425px){
+    .carousel {
+        img {
+            height: 340px !important;
+        }
+    }
+}

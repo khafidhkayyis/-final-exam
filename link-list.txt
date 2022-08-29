@@ -1,0 +1,40 @@
+npm i --save @fortawesome/free-brands-svg-icons \
+untuk menginstall fontawesome
+
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+untuk import icons
+
+import { faFacebook, faInstagram, faTwitter, faYoutube, } from "@fortawesome/free-brands-svg-icons"
+cara penggunaan icons
+
+const Card = () => {
+    return(
+{
+untuk menjalankan react
+
+export default Card;
+agar bisa import difile lain
+
+style={{textAlign: 'center'}}
+untuk menggunakan inline style direact 
+
+part
+untuk komponen yang sering digunakan dikomponen lain
+
+pages
+untuk komponen halaman2
+
+components
+halaman yang sekali digunakan
+
+shift + tab
+untuk merapihkan komponen kekiri
+
+tab
+untuk merapihkan komponen kekanan
+
+elemen harus didalam div 
+
+import 'bootstrap/dist/js/bootstrap.bundle'
+
+jekueri $ versi lama 
